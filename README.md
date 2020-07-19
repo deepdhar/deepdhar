@@ -22,6 +22,7 @@ I also run a tech website 😁 by the name [WiseBuyOnline](https://www.wisebuyon
 - C (Programming Language)
 - C++
 - Dart
+- Flutter
 - Matlab
 - Application Development
 - Problem Solving
