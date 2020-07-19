@@ -5,5 +5,21 @@
 
 ![z6pkbof42d5ljfxtox3p](https://user-images.githubusercontent.com/53803245/87873597-889bf180-c9e0-11ea-936c-0c1abb3259e7.png)
 
-## About Me
-I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding and Open Source Enthusiast. ☕ lover. Fun Fact: I listen a lot of music everyday.
+## About Me😎
+I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open Source Enthusiast and Flutter Beginner. ☕ lover. Fun Fact: I listen a lot of music everyday.
+
+I also run a tech website by the name [WiseBuyOnline](https://www.wisebuyonline.com), in which I write abou tech realted stuff.
+
+## Things I am passionate about
+- Competitive Coding
+- Application Development
+- Open Source
+
+## Languages and Skills✨
+- Python
+- C (Programming Language)
+- C++
+- Dart
+- Matlab
+- Application Development
+- Problem Solving
