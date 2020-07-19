@@ -1,9 +1,6 @@
 ### Hi there, welcome to my profile 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... Python Frameworks, Application Development with Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/deep-dhar)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I have already made some self projects with pyhton. You can check them on my repositories😄
--->
