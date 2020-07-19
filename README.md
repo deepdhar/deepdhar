@@ -10,7 +10,7 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
 
 I also run a tech website by the name [WiseBuyOnline](https://www.wisebuyonline.com), in which I write abou tech realted stuff.
 
-_**Code to bring a change to the society, code for a cause**-
+**_Code to bring a change to the society, code for a cause_**
 
 ## Things I am passionate about
 - Competitive Coding
