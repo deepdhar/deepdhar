@@ -21,10 +21,11 @@ I also run a tech website 😁 by the name [WiseBuyOnline](https://www.wisebuyon
 - Python
 - C (Programming Language)
 - C++
+- Java
 - Dart
 - Flutter
 - Matlab
-- Application Development
+- Android Development
 - Problem Solving
 
 ## Get in touch 📱
