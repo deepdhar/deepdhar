@@ -30,8 +30,8 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
 ## Get in touch 📱
 <a href="https://www.linkedin.com/in/deep-dhar/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
 <a href="https://twitter.com/deepdhar2000"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
-- [Instagram](https://www.instagram.com/_deepdhar_)
-
+<a href="https://www.instagram.com/_deepdhar_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" style="margin-right : 5px"/></a>
+  
 [![Deep's github stats](https://github-readme-stats.vercel.app/api?username=deepdhar&show_icons=true&theme=algolia)](https://github.com/deepdhar?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdhar&show_icons=true&theme=algolia)](https://github.com/deepdhar?tab=repositories)
 
