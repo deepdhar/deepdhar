@@ -32,4 +32,6 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
 - [Twitter](https://twitter.com/deepdhar2000)
 - [LinkedIn](https://www.linkedin.com/in/deep-dhar)
 
+[![Deep's github stats](https://github-readme-stats.vercel.app/api?username=deepdhar&show_icons=true&theme=algolia)](https://github.com/deepdhar?tab=repositories)
+
 ![git image](https://user-images.githubusercontent.com/53803245/87877334-5d72cb80-c9fb-11ea-9320-8fa15f9e3e23.png)
