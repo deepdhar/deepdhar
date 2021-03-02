@@ -17,13 +17,12 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
 - Open Source
 
 ## Languages and Skills✨
-- Python
+- Java
 - C (Programming Language)
 - C++
-- Java
-- Dart
+- Python
 - Flutter
-- Matlab
+- Dart
 - Android Development
 - Problem Solving
 
