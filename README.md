@@ -11,10 +11,12 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
 
 ⚡ **_Code to bring a change to the society, code for a cause_** ⚡
 
+
 ### Things I am passionate about 🎯
 - ***Competitive Coding***
 - ***Application Development***
 - ***Open Source***
+
 
 ### My Tech Toolbox 🧰
 
