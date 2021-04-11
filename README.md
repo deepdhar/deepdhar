@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Deep Dhar ✌]
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Deep Dhar ✌
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepdhar.visitor-badge)
 <a href="https://www.linkedin.com/in/deep-dhar/" target="_blank"><img src="https://img.shields.io/badge/-deepdhar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>  <a href="https://twitter.com/deepdhar2000" target="_blank"><img src="https://img.shields.io/badge/-@deepdhar2000-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>  <a href="mailto:dhar2017.slg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dhar2017.slg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>  <a href="https://instagram.com/_deepdhar_/" target="_blank"><img src="https://img.shields.io/badge/-__deepdhar__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -6,19 +6,22 @@
 ![z6pkbof42d5ljfxtox3p](https://user-images.githubusercontent.com/53803245/87873597-889bf180-c9e0-11ea-936c-0c1abb3259e7.png)
 
 ## About Me 😎
-I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open Source Enthusiast and also an Android Developer. ☕ lover. Fun Fact: I listen to a lot of music everyday.
+- A CSE Undergrad Sophomore
+- Loves to make android apps
+- Competitive Programming & Open Source Enthusiast
+- 5 star in Java, 4 star in C at Hackerrank⭐
 
 
 ⚡ **_Code to bring a change to the society, code for a cause_** ⚡
 
 
-### Things I am passionate about 🎯
+## Things I am passionate about 🎯
 - ***Competitive Coding***
 - ***Application Development***
 - ***Open Source***
 
 
-### My Tech Toolbox 🧰
+## My Tech Toolbox 🧰
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/53803245/114309142-d96df000-9b03-11eb-886d-8cbdbdae7c9b.png" alt="Android" width="45" height="45"/>
@@ -29,6 +32,7 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VS Code" width="40" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
 </p>
+
 
 
 ## Get in touch 📱
