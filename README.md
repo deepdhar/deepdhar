@@ -27,7 +27,9 @@ I am Deep Dhar, a CSE Undergrad Student. Sophomore, Competitive Coding & Open So
   <img src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" alt="Python" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/53803245/114309044-78461c80-9b03-11eb-81bb-f0d309e11018.png" alt="C" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
 </p>
+
 
 ## Get in touch 📱
 <a href="https://www.linkedin.com/in/deep-dhar/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
