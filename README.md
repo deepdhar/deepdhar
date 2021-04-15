@@ -1,9 +1,9 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Deep Dhar ✌
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepdhar.visitor-badge)
 <a href="https://www.linkedin.com/in/deep-dhar/" target="_blank"><img src="https://img.shields.io/badge/-deepdhar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>  <a href="https://twitter.com/deepdhar2000" target="_blank"><img src="https://img.shields.io/badge/-@deepdhar2000-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>  <a href="mailto:dhar2017.slg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dhar2017.slg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>  <a href="https://instagram.com/_deepdhar_/" target="_blank"><img src="https://img.shields.io/badge/-__deepdhar__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <img src="https://user-images.githubusercontent.com/53803245/114814950-e2481580-9dd2-11eb-93ad-06f09b417706.png" width="985" height="554"/>
+
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Deep Dhar ✌
 
 ## About Me 😎
 - A CSE Undergrad Sophomore
