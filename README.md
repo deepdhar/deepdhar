@@ -5,7 +5,7 @@
 
 ## Hey there, welcome to my profile ✌
 
-## About Me 😎
+### About Me
 - A CSE Undergrad Sophomore
 - Loves to make android apps
 - Competitive Programming & Open Source Enthusiast
@@ -15,13 +15,13 @@
 ⚡ **_Code to bring a change to the society, code for a cause_** ⚡
 
 
-## Things I am passionate about 🎯
+### Things I am passionate about 🎯
 - ***Competitive Coding***
 - ***Application Development***
 - ***Open Source***
 
 
-## My Tech Toolbox 🧰
+### My Tech Toolbox 🧰
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/53803245/114309142-d96df000-9b03-11eb-886d-8cbdbdae7c9b.png" alt="Android" width="45" height="45"/>
@@ -35,7 +35,7 @@
 
 
 
-## Get in touch 📱
+### Get in touch 📱
 <a href="https://www.linkedin.com/in/deep-dhar/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
 <a href="https://twitter.com/deepdhar2000"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
 <!--<a href="https://www.instagram.com/_deepdhar_/"><img src="https://icons.iconarchive.com/icons/designbolts/free-instagram/256/Hover-Instagram-3-icon.png" style="margin-right : 5px"/></a>-->
