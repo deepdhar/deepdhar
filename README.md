@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/53803245/114814950-e2481580-9dd2-11eb-93ad-06f09b417706.png" width="985" height="554"/>
 
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Deep Dhar ✌
+## Hey there, welcome to my profile ✌
 
 ## About Me 😎
 - A CSE Undergrad Sophomore
