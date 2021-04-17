@@ -16,8 +16,8 @@
 
 
 ### Things I am passionate about 🎯
-- ***Competitive Coding***
-- ***Application Development***
+- ***Android App Development***
+- ***Competitive Programming***
 - ***Open Source***
 
 
