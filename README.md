@@ -3,7 +3,7 @@
 
 ![Deep Dhar bg](https://user-images.githubusercontent.com/53803245/114814950-e2481580-9dd2-11eb-93ad-06f09b417706.png)
 
-## Hey there, welcome to my profile ✌
+## Hey there, Welcome to my profile ✌
 
 ### About Me
 - A CSE Undergrad Sophomore
