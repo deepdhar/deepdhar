@@ -6,7 +6,7 @@
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
-- A CSE Undergrad Sophomore
+- CSE Sophomore (B.Tech)
 - Loves to make android apps
 - Competitive Programming & Open Source Enthusiast
 - 5 star in Java, 4 star in C at Hackerrank⭐
