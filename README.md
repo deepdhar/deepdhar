@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepdhar.visitor-badge)
 <a href="https://www.linkedin.com/in/deep-dhar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>  <a href="https://twitter.com/deepdhar2000" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhar2017.slg@gmail.com.com&su=SUBJECT&body=BODY&bcc=" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>  <a href="https://instagram.com/_deepdhar_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<img alt="banner" src="https://user-images.githubusercontent.com/53803245/122100944-63527600-ce31-11eb-976e-cdcff8a14ec2.gif" />
+<img alt="banner" src="https://user-images.githubusercontent.com/53803245/122102460-0f489100-ce33-11eb-9c49-5b007a26a581.gif" />
 
 ## Hey there, Welcome to my profile ✌
 
