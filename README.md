@@ -7,8 +7,9 @@
 
 ### About Me
 - CSE Sophomore (B.Tech)
-- Loves to make android apps
-- Competitive Programming & Open Source Enthusiast
+- Love to make android apps
+- GirlScript Summer of Code 21 Participant and Contributor
+- Engaged in communities like Hack Club, Codechef Campus Chapter, GirlScript
 - 5 star in Java, 4 star in C at Hackerrank⭐
 
 
@@ -17,8 +18,8 @@
 
 ### Things I am passionate about 🎯
 - ***Android App Development***
-- ***Competitive Programming***
-- ***Open Source***
+- ***Learning new technologies around***
+- ***Open-source stuff***
 
 
 ### My Tech Toolbox 🧰
