@@ -42,9 +42,9 @@
 
 
 ### Get in touch 📱
-<a href="https://www.linkedin.com/in/deep-dhar/"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
-<a href="https://twitter.com/deepdhar2000"><img src="https://gp3.googleusercontent.com/v_LdxBFUbEB6Jd7-4kTqWEepbGRnBEbmRnCL6cVjApJchGsKDE4frlchAlV389TMp3BsuGgMgu-e5ttHz7fzUbDqiNe5Jl1GhzwZRFla8O7trVP_N71bgD3XBTp4m0RC5noudt8Bwg=s48-p-k" style="margin-right : 5px"/></a>
-<a href="https://open.spotify.com/user/xfck6qetzewh7dbdzl0js1byn"><img src="https://user-images.githubusercontent.com/53803245/122163333-a5f86a80-ce92-11eb-9365-389c9abe5cd3.png" width="40" height="40" style="margin-right : 5px"/></a>
+<a href="https://www.linkedin.com/in/deep-dhar/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
+<a href="https://twitter.com/deepdhar2000"><img src="https://user-images.githubusercontent.com/53803245/122164759-df31da00-ce94-11eb-9257-9909aad6c986.png" width="50" height="50" /></a>
+<a href="https://open.spotify.com/user/xfck6qetzewh7dbdzl0js1byn"><img src="https://user-images.githubusercontent.com/53803245/122164758-de994380-ce94-11eb-9512-929032a7480b.png" width="50" height="50"/></a>
   
 <!--<a href="https://www.instagram.com/_deepdhar_/"><img src="https://icons.iconarchive.com/icons/designbolts/free-instagram/256/Hover-Instagram-3-icon.png" style="margin-right : 5px"/></a>-->
   
