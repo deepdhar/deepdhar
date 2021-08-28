@@ -6,7 +6,7 @@
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
-- CSE Sophomore (B.Tech)
+- CSE Pre-final Year (B.Tech)
 - Love to make android apps
 - GirlScript Summer of Code 21 Participant and Contributor
 - Engaged in communities like Hack Club, Codechef Campus Chapter, GirlScript
