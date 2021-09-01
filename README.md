@@ -36,8 +36,8 @@
   <img src="https://user-images.githubusercontent.com/53803245/122162324-04bce480-ce91-11eb-8c89-c69bbc8a8115.png" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/53803245/122162757-afcd9e00-ce91-11eb-9049-85bc1f2f062a.png" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/53803245/122162404-27e79400-ce91-11eb-9f7d-7d6b3cb029c3.png" alt="HTML" width="30" height="40"/>
-  <img src="https://user-images.githubusercontent.com/53803245/122162502-4d749d80-ce91-11eb-9653-cd3b2ba73893.png" alt="CSS" width="30" height="40"/>
+  <img src="https://user-images.githubusercontent.com/53803245/122162404-27e79400-ce91-11eb-9f7d-7d6b3cb029c3.png" alt="HTML" width="35" height="45"/>
+  <img src="https://user-images.githubusercontent.com/53803245/122162502-4d749d80-ce91-11eb-9653-cd3b2ba73893.png" alt="CSS" width="35" height="45"/>
 </p>
 
 
