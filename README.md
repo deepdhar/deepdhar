@@ -18,7 +18,7 @@
 
 ### Things I am passionate about 🎯
 - ***Android App Development***
-- ***Learning new technologies around***
+- ***Learn cutting edge technologies***
 - ***Open-source stuff***
 
 
