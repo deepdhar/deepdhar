@@ -16,9 +16,9 @@
 
 
 ### Things I am passionate about 🎯
-- ***Android App Development***
-- ***Learn cutting edge technologies***
-- ***Open-source stuff***
+- ***Mobile App Development***
+- ***Front end (UI/UX) development***
+- ***Trying out cutting edge tech***
 
 
 ### My Tech Toolbox 🧰
