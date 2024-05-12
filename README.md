@@ -6,10 +6,9 @@
 ## Hey there, Welcome to my profile ✌
 
 ### About Me
-- CSE Final Year (B.Tech)
-- Grinding mobile app development
-- GirlScript Summer of Code 21 Participant and Contributor
-- Engaged in communities like Hack Club, Codechef Campus Chapter, GirlScript
+- Software Engineer
+- Bachelor's of Technology in Computer Science Engineering
+- Engaged across communities and technologies
 
 
 ⚡ **_Code to bring a change to the society, code for a cause_** ⚡
@@ -17,8 +16,7 @@
 
 ### Things I am passionate about 🎯
 - ***Mobile App Development***
-- ***Front end (UI/UX) development***
-- ***Trying out cutting edge tech***
+- ***Front end development***
 
 
 ### My Tech Toolbox 🧰
